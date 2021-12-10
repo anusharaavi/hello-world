@@ -10,6 +10,9 @@
     <label for="Name"><b>Enter Name</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
+
+<label for="id"><b>Enter Name</b></label>
+    <input type="text" placeholder="Enter your id" name="id" id="id" required>
     
     <label for="mobile"><b>Enter mobile</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
