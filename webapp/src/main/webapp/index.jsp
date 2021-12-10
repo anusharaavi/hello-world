@@ -11,7 +11,7 @@
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
 
-<label for="id"><b>Enter Name</b></label>
+<label for="id"><b>Enter ID</b></label>
     <input type="text" placeholder="Enter your id" name="id" id="id" required>
     
     <label for="mobile"><b>Enter mobile</b></label>
