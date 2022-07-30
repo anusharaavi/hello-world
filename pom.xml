@@ -79,7 +79,7 @@
               <groupId>org.codehaus.mojo</groupId>
               <artifactId>taglist-maven-plugin</artifactId>
             </plugin>
-           </reporting></plugin>
+          </reporting></plugin>
         </configuration>
       </plugin>
     </plugins>
