@@ -81,8 +81,8 @@
             </plugin>
           </reporting></plugin>
         </configuration>
-      </plugin>
-    </plugins>
+     </plugin>
+    
 
     <pluginManagement>
       <plugins>
